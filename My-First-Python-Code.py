@@ -1,0 +1,7 @@
+print("*******************************")
+print("* YOUSSEF THE DEVELOPER  *")
+print("*******************************")
+print("Project: My First Python Script")
+print("Status: In Progress...")
+print("Goal: Financial Freedom & RS5")
+print("*******************************")
